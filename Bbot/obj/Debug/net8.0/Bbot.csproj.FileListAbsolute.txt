@@ -1,0 +1,17 @@
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\obj\Debug\net8.0\Bbot.csproj.AssemblyReference.cache
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\obj\Debug\net8.0\Bbot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\obj\Debug\net8.0\Bbot.AssemblyInfoInputs.cache
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\obj\Debug\net8.0\Bbot.AssemblyInfo.cs
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\obj\Debug\net8.0\Bbot.csproj.CoreCompileInputs.cache
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\bin\Debug\net8.0\Bbot.exe
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\bin\Debug\net8.0\Bbot.deps.json
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\bin\Debug\net8.0\Bbot.runtimeconfig.json
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\bin\Debug\net8.0\Bbot.dll
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\bin\Debug\net8.0\Bbot.pdb
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\obj\Debug\net8.0\Bbot.csproj.Up2Date
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\obj\Debug\net8.0\Bbot.dll
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\obj\Debug\net8.0\refint\Bbot.dll
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\obj\Debug\net8.0\Bbot.pdb
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\obj\Debug\net8.0\Bbot.genruntimeconfig.cache
+C:\Users\smkir\OneDrive\Рабочий стол\колледж\лари\Bbot\obj\Debug\net8.0\ref\Bbot.dll
